@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "README : lists to read"
-date:   2020-12-30
+date:   2020-12-30 21:43:00 +0900
 categories: PaperReview DeepLearning
 ---
-
 2021을 맞이하기 바로 직전, 새로운 목표를 다잡고 오랫동안 매우 애지중지 아껴놨던ㅋㅋ 블로그를 써야 겠다고 드디어 다짐했다. 이제 정말 Deep Dive 를 할 시간. 논문읽기를 습관화 하기 위해 나름의 룰을 만들어서 진행해 봐야겠다. 제발 작심삼일이 아니기를!
-
 
 # Rule
 1. 리뷰 논문 찾기 : survey, review, tutorial, overview
