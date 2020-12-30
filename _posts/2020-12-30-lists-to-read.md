@@ -3,7 +3,6 @@ layout: post
 title:  "README : lists to read"
 date:   2020-12-30
 categories: Javascript NodeJS
-tag: A B C
 ---
 
 # Rule

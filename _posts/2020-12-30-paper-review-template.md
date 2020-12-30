@@ -2,8 +2,7 @@
 layout: post
 title:  "Title"
 date:   2020-12-30
-categories: Computer_Vision
-tag: Image_Feature_Extractor
+categories: Computer_Vision Image_Feature_Extractor
 ---
 
 ## Abstract
