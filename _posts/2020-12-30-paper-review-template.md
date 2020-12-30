@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paper Review Template"
-date:   2020-12-30
+date:   2020-12-30 21:43:00 +0900
 categories: ComputerVision ImageFeatureExtractor
 ---
 Paper Review Template
