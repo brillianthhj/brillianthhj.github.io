@@ -2,8 +2,11 @@
 layout: post
 title:  "README : lists to read"
 date:   2020-12-30
-categories: Javascript NodeJS
+categories: PaperReview DeepLearning
 ---
+
+2021을 맞이하기 바로 직전, 새로운 목표를 다잡고 오랫동안 매우 애지중지 아껴놨던ㅋㅋ 블로그를 써야 겠다고 드디어 다짐했다. 이제 정말 Deep Dive 를 할 시간. 논문읽기를 습관화 하기 위해 나름의 룰을 만들어서 진행해 봐야겠다. 제발 작심삼일이 아니기를!
+
 
 # Rule
 1. 리뷰 논문 찾기 : survey, review, tutorial, overview
@@ -44,5 +47,5 @@ categories: Javascript NodeJS
 
 # References
 - [Papers with Code](https://paperswithcode.com/methods/area/computer-vision) : 이 곳에서 먼저 키워드 검색 후 찾아도 충분히 높은 품질의 논문 발견 가능
-
+- 대학원생 때 알았더라면 좋았을 것들 내 [논문 잘읽는 방법](http://gradschoolstory.net/terry/readingpapers/) 참조
 - Next : CVPR, ICCV, ICML, ICLR, NeurIPS
