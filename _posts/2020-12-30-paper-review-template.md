@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Title"
+title:  "Paper Review Template"
 date:   2020-12-30
-categories: Computer_Vision Image_Feature_Extractor
+categories: ComputerVision ImageFeatureExtractor
 ---
 
 ## Abstract
